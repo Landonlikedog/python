@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="newPrefix">
+		<file>sh/images/2018-08-20/2040011.png</file>
+		<file>sh/images/2018-08-20/2040011[1].png</file>
+		<file>sh/images/2018-08-20/2040021.png</file>
+		<file>sh/images/2018-08-20/2040021[1].png</file>
+  </qresource>
+</RCC>
